@@ -1,0 +1,49 @@
+.navbar1
+{
+    display: flex;
+    justify-content: space-between;
+    height: 80px;
+    width: 90%;
+    border: 1px solid black;
+    margin: auto;
+    background-color: black;
+    margin-top: 50px;
+    padding-left: 30px;
+}
+.navbar2
+{
+    display: flex;
+    gap: 20px;
+    align-items: center;
+}
+.btn
+{
+    border-radius: 15px;
+    height: 30px;
+    width: 100px;
+    margin-top: 35px;
+    margin-right: 100px;
+    background-color: teal;
+}
+.para
+{
+    color: white;
+}
+.para1
+{
+    color: white;
+    margin-left: 100px;
+}
+.ul
+{
+    display: flex;
+    gap:20px;
+    margin-top:30px;
+}
+.ul li{
+    list-style: none;
+    color: white;
+}
+a{
+    text-decoration: none;
+}
